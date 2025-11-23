@@ -1,5 +1,4 @@
-# Waste Classifier (Text) — Indian Basics (TF-IDF + LogisticRegression)
-
+# EcoSortify - A Waste Classifier
 This project contains a complete text-based waste classifier tailored with an "Indian basics" synthetic dataset.
 It includes:
 - dataset: `data/waste_dataset_india_synthetic.csv` (10000 rows)
@@ -48,4 +47,3 @@ waste_classifier_project/
 - You can improve accuracy by trying different classifiers (RandomForest, XGBoost), more hyperparameter search, or pre-processing rules.
 - The Streamlit app uses the saved pipeline for prediction; run training first to create artifacts, or I can provide trained artifacts too.
 
-Enjoy! — Generated automatically.
